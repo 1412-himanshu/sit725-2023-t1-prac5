@@ -1,6 +1,10 @@
 # sit725-2023-t1-prac5
 This is the repository in which the files related to Task 5.1C - Using MVC Strategy of the SIT 725 => Applied Software Engineering course.
 
+# Screenshots PDF File
+
+[s223940348 - Task 5.1C.pdf](https://github.com/1412-himanshu/sit725-2023-t1-prac5/files/13630277/s223940348.-.Task.5.1C.pdf)
+
 # Code screenshot
 
 ![code](https://github.com/1412-himanshu/sit725-2023-t1-prac5/assets/85329713/ccf2bb4a-21f2-45a1-add9-e32eb0850ee0)
